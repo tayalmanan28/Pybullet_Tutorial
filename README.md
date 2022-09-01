@@ -40,7 +40,7 @@ If this command executes without any error then the installation is successful.
 
 ## Description of Files
 
-* Kinematics of a serial-2R manipulator (notebook: kinematics.ipynb)
+* Kinematics of a serial-2R manipulator (notebook: [kinematics.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/kinematics.ipynb))
     * Forward kinematics  
     * Inverse kinematics  
     * Verification of the FK and IK modules against each other  
@@ -52,18 +52,18 @@ If this command executes without any error then the installation is successful.
     * Loading URDF files in PyBullet  
 
 
-* Torque control of robot state in PyBullet (notebook: torque_control.ipynb)
+* Torque control of robot state in PyBullet (notebook: [torque_control.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/kinematics.ipynb))
     * Obtaining joint information  
     * Setting the control mode (and enabling the motors)  
     * Control of joint torque  
 
 
-* PID control of robot (notebook: torque_control.ipynb)
+* PID control of robot (notebook: [torque_control.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/kinematics.ipynb))
     * Reading the joint state  
     * Determining the control action  
     * Setting the required control torque  
 
 
-* Point-to-point tracking of end-effector (notebook: torque_control.ipynb)
+* Point-to-point tracking of end-effector (notebook: [torque_control.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/kinematics.ipynb))
     * Obtaining the required joint angles to reach the desired end-effector position  
     * Simulating a PID position control loop to reach the desired end-effector position  
