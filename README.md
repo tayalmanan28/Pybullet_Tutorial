@@ -46,7 +46,7 @@ If this command executes without any error then the installation is successful.
     * Verification of the FK and IK modules against each other  
 
 
-* Introduction to PyBullet (notebook: sim_env_setup.ipynb)
+* Introduction to PyBullet (notebook: [sim_env_setup.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/sim_env_setup.ipynb))
     * How to start a PyBullet session  
     * Settings the simulation parameters in PyBullet  
     * Loading URDF files in PyBullet  
