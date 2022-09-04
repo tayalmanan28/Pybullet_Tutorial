@@ -43,7 +43,7 @@ If this command executes without any error then the installation is successful.
 * Kinematics of a serial-2R manipulator (notebook: [kinematics.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/kinematics.ipynb))
     * Forward kinematics  
     * Inverse kinematics  
-    * Verification of the FK and IK modules against each other  
+    * Verification of the FK and IK modules against each other  .
 
 
 * Introduction to PyBullet (notebook: [sim_env_setup.ipynb](https://github.com/tayalmanan28/Pybullet_Tutorial/blob/main/sim_env_setup.ipynb))
