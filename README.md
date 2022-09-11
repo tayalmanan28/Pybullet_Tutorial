@@ -17,12 +17,23 @@ $ conda activate pyb
 
 Then, clone the repository on your system:
 ```
-git clone https://github.com/tayalmanan28/Biped-Pybullet.git
+git clone https://github.com/tayalmanan28/Pybullet_Tutorial.git
 ```
-Install the following required packages:
+Once in the desired environment install the following packages:  
 ```
-pip install -r requirements.txt
+$ conda install nb_conda_kernels  
 ```
+
+Install PyBullet (while in the environment):  
+```
+$ pip install pybullet  
+```
+
+Install Matplotlib (while in the environment):
+```
+$ conda install matplotlib
+```
+
 
 ### Checking Pybullet Installation
 
@@ -37,6 +48,11 @@ Inside the python environment import the pybullet and matplotlib libraries:
 >> import matplotlib
 ```
 If this command executes without any error then the installation is successful. 
+
+Check the Jupyter notebook by running the following command in the bash shell:  
+```
+$ jupyter notebook  
+```
 
 ## Description of Files
 
